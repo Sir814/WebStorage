@@ -22,7 +22,7 @@ Storage.setItem('user', object);
 
 /* Get Javascript object */
 var object = Storage.getJSON('user');
-
+```
 ## Import File
 #### IF  Development version
 use WebStorage.js
